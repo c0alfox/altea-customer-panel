@@ -1,0 +1,56 @@
+/***********************
+ *     BRAND COLORS
+ ***********************/
+
+:root {
+    --blue: #c3e4ed;
+    --dark-blue: #05a1c7;
+
+    --denim: #04679e;
+    --dark-denim: #01567b;
+
+    --cyan: #16bfde;
+    --dark-cyan: #0397c7;
+}
+
+/***********************
+ *   BACKGROUND UTILS
+ ***********************/
+
+.bg-altea-blue {
+    background-color: var(--blue);
+}
+
+.bg-altea-dark-blue {
+    background-color: var(--dark-blue);
+    color: white;
+}
+
+.bg-altea-denim {
+    background-color: var(--denim);
+    color: white;
+}
+
+.bg-altea-dark-denim {
+    background-color: var(--dark-denim);
+    color: white;
+}
+
+.bg-altea-cyan {
+    background-color: var(--cyan);
+}
+
+.bg-altea-dark-cyan {
+    background-color: var(--dark-cyan);
+    color: white;
+}
+
+/***********************
+ *       BUTTONS
+ ***********************/
+
+.btn-altea-dark-denim {
+    background-color: var(--dark-denim);
+    border-color: var(--denim);
+    color: white;
+}
