@@ -54,3 +54,13 @@
     border-color: var(--denim);
     color: white;
 }
+
+/***********************
+ *        AD-HOC
+ ***********************/
+
+#nav-logo {
+    height: 42px;
+    width: auto;
+    margin-left: 10px;
+}

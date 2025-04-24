@@ -1,7 +1,4 @@
-<?php
-require_once "utils/pdo.php";
-?>
-
+<?php require_once "utils/prelude.php" ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +7,6 @@ require_once "utils/pdo.php";
     <title> </title>
 </head>
 <body>
-    
+    <?php include "utils/navbar.php" ?>
 </body>
 </html>
